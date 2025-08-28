@@ -1,5 +1,5 @@
 title: Tyler Siwek Portfolio
 description: Computer Engineering student showcasing projects and research
-baseurl: "" # leave empty for user/organization pages
-url: "https://username.github.io" # your GitHub Pages URL
-theme: minima # or whichever theme you selected
+baseurl: "" 
+url: "https://username.github.io" 
+theme: jekyll-theme-minimal
