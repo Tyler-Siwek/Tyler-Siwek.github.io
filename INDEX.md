@@ -24,3 +24,4 @@ Eagan, MN 55123
 - **Snowflake Imaging and Processing** – Senior Design Project in progress
 
 ---
+Feel free to reach out via [email](mailto:tyler.s.1092@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tyler-s-641267232/).
